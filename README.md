@@ -30,10 +30,6 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **AWS Certif
 - **Open source projects** in **React.js**, **Next.js**, and **cloud-based** applications.
 - Anything related to **AWS**, **DevOps**, or **microservices architecture**.
 
-### 🤔 I’m looking for help with:
-- Best practices for **optimizing Kubernetes clusters** and deploying applications in **high-availability environments**.
-- Enhancing performance and security for large-scale applications on **AWS**.
-
 ### 💬 Ask me about:
 - **AWS Solutions Architecture**, **Cloud Computing**, and **CI/CD** pipelines.
 - **React Native** and **cross-platform mobile app development**.
