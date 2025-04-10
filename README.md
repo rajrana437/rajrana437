@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Raj Rana
 
-Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **AWS Certified Solutions Architect** with over **4+ years of experience** in building dynamic, scalable web and mobile applications. My journey has been all about exploring the depths of **frontend** and **backend development**, cloud computing, and honing my skills to create innovative solutions.
+Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **AWS Certified Solutions Architect** with over **3+ years of experience** in building dynamic, scalable web and mobile applications. My journey has been all about exploring the depths of **frontend** and **backend development**, cloud computing, and honing my skills to create innovative solutions.
 
 ### 🔭 I’m currently working on:
 - A **Carpooling app** for facilitating eco-friendly commuting by connecting drivers and riders, using **React Native** for the frontend and **Firebase** for real-time data management.
